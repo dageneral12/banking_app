@@ -1,0 +1,12 @@
+forms.py:18:9: E265 block comment should start with '# '
+        #existing_source_name = list(all_sources.name)
+        ^
+forms.py:19:9: E265 block comment should start with '# '
+        #existing_source_url = list(all_sources.source_url)
+        ^
+forms.py:34:1: E303 too many blank lines (7)
+class RateForm(forms.ModelForm):
+^
+forms.py:45:1: E303 too many blank lines (4)
+class ContactUsForm(forms.ModelForm):
+^
